@@ -7,3 +7,10 @@ El entrenamiento funcional se enfoca en ejercicios que mejoran la fuerza y la mo
 - Aumenta la fuerza y la resistencia muscular.
 - Mejora la funcionalidad en actividades cotidianas (como levantar, cargar y mover objetos).
 - Favorece la salud cardiovascular y la quema de calorías.
+
+## Instrucciones
+1. Comienza con un calentamiento dinámico que prepare los músculos y las articulaciones.
+2. Realiza circuitos que incluyan movimientos como sentadillas, empujes, levantamientos y estiramientos.
+3. Utiliza el peso corporal, pesas o kettlebells para realizar los ejercicios.
+4. Mantén la intensidad alta y los descansos breves entre los ejercicios.
+5. Termina con un enfriamiento para reducir la tensión muscular y mejorar la flexibilidad.
