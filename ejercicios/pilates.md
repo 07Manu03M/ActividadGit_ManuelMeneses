@@ -15,3 +15,9 @@ El Pilates es un sistema de ejercicios que se enfoca en fortalecer el núcleo de
 3. Concéntrate en mantener la alineación correcta durante todo el ejercicio y en utilizar la respiración para apoyar el movimiento.
 4. A medida que progreses, puedes añadir más repeticiones y variantes de los ejercicios.
 5. Finaliza con estiramientos suaves para relajar los músculos y mejorar la flexibilidad.
+
+## Consejos
+- Mantén el control sobre tu respiración durante todo el entrenamiento.
+- Realiza los movimientos de manera controlada, evitando prisas y buscando la precisión.
+- Asegúrate de alinear bien tu cuerpo para evitar tensiones innecesarias y lesiones.
+- Practica Pilates 2-3 veces por semana para mejorar tu fuerza y flexibilidad.
