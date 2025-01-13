@@ -14,3 +14,9 @@ El entrenamiento funcional se enfoca en ejercicios que mejoran la fuerza y la mo
 3. Utiliza el peso corporal, pesas o kettlebells para realizar los ejercicios.
 4. Mantén la intensidad alta y los descansos breves entre los ejercicios.
 5. Termina con un enfriamiento para reducir la tensión muscular y mejorar la flexibilidad.
+
+## Consejos
+- Realiza los movimientos de forma controlada y con buena postura para evitar lesiones.
+- Asegúrate de incluir ejercicios para el tren superior e inferior del cuerpo en cada sesión.
+- Adapta la intensidad a tu nivel de condición física, aumentando gradualmente la dificultad.
+- Realiza este tipo de entrenamiento 2-3 veces por semana para obtener buenos resultados.
