@@ -14,3 +14,8 @@ Los ejercicios de flexibilidad ayudan a mejorar la movilidad de las articulacion
 3. Realiza estiramientos dinámicos, moviendo las articulaciones a través de su rango de movimiento.
 4. Asegúrate de estirar todos los grupos musculares, especialmente aquellos que sientas más tensos.
 5. Termina con un enfriamiento suave.
+
+## Consejos
+- No rebotes durante los estiramientos, esto puede causar lesiones. Mantén cada estiramiento de forma estática.
+- Escucha a tu cuerpo; estira solo hasta donde sientas un ligero estiramiento, no dolor.
+- Realiza ejercicios de flexibilidad al menos tres veces por semana para obtener mejores resultados.
