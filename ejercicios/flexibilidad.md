@@ -7,3 +7,10 @@ Los ejercicios de flexibilidad ayudan a mejorar la movilidad de las articulacion
 - Reduce el riesgo de lesiones al aumentar la flexibilidad de los músculos.
 - Mejora la postura y la alineación del cuerpo.
 - Alivia tensiones musculares y mejora la circulación sanguínea.
+
+## Instrucciones
+1. Comienza con un calentamiento ligero de 5-10 minutos para preparar el cuerpo.
+2. Realiza estiramientos estáticos, manteniendo cada posición durante 20-30 segundos.
+3. Realiza estiramientos dinámicos, moviendo las articulaciones a través de su rango de movimiento.
+4. Asegúrate de estirar todos los grupos musculares, especialmente aquellos que sientas más tensos.
+5. Termina con un enfriamiento suave.
