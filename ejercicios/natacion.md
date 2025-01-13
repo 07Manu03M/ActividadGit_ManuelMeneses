@@ -15,3 +15,9 @@ La natación es un ejercicio de bajo impacto que trabaja todo el cuerpo, mejoran
 3. Mantén un ritmo constante y enfócate en la respiración controlada.
 4. Si eres principiante, comienza con 2-3 largos y aumenta gradualmente la distancia.
 5. Termina con un enfriamiento de 5 minutos, nadando de manera suave y relajada.
+
+## Consejos
+- Asegúrate de mantener una buena postura en el agua, con el cuerpo alineado y la cabeza en posición neutral.
+- Realiza series de intervalos para mejorar la velocidad y la resistencia.
+- Mantén una respiración constante y sincronizada con los movimientos del nado.
+- Realiza natación 2-3 veces por semana para obtener los mejores beneficios tanto en fuerza como en resistencia.
