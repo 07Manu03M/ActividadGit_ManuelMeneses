@@ -15,3 +15,9 @@ El yoga es una práctica que combina posturas físicas, técnicas de respiració
 3. Mantén cada postura durante 20-30 segundos, respirando profundamente y relajando el cuerpo.
 4. A medida que avances, puedes incorporar posturas más complejas.
 5. Termina con una breve meditación o relajación en la "Postura del Cadáver" (Savasana).
+
+## Consejos
+- Mantén una respiración constante y profunda durante toda la práctica.
+- No te fuerces demasiado en las posturas, avanza a tu propio ritmo.
+- Practica yoga en un ambiente tranquilo y sin distracciones para mejorar la concentración.
+- Realiza yoga al menos 3 veces por semana para obtener los mejores resultados a largo plazo.
