@@ -13,3 +13,8 @@ El boxeo es un ejercicio de alta intensidad que mejora la fuerza, la resistencia
 2. Realiza series de golpes con intensidad: jabs, cruzados y ganchos.
 3. Añade ejercicios de defensa como el esquivar y bloquear.
 4. Termina con un enfriamiento y estiramientos.
+
+## Consejos
+- Mantén una postura firme y los puños cerca de tu cara.
+- Respira de manera constante mientras golpeas.
+- Practica la técnica antes de aumentar la velocidad o la intensidad.
